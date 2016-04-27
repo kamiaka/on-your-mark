@@ -1,0 +1,106 @@
+// Common Settings
+
+// Colors
+
+$black:           #070709 !default;
+$white:           #ffffff !default;
+
+$gray-dark:       #333333 !default;
+$gray:            #555555 !default;
+$gray-light:      #7f7f7f !default;
+$gray-lighter:    #eeeeee !default;
+$gray-lightest:   #f7f7f7 !default;
+
+$brand-primary:   #ff2e68 !default;
+$brand-secondary: #999999 !default;
+
+$brand-safe:      #4cd832 !default;
+$brand-info:      #13bdf0 !default;
+$brand-alert:     #f0c113 !default;
+$brand-warning:   #d84232 !default;
+
+// Spaces
+
+$spacer: 1rem !default;
+$spacer-x: $spacer !default;
+$spacer-y: $spacer !default;
+
+// Fonts
+
+$font-family-sans-serif: "";
+$font-family-monospace: "";
+$font-family-base: $font-family-sans-serif;
+
+$font-size-root: 10px !default;
+
+$font-size-larger: 2.6rem !default;
+$font-size-large: 2rem !default;
+$font-size-base: 1.6rem !default;
+$font-size-small: 1.4rem !default;
+$font-size-smaller: 1rem !default;
+
+$line-height-base: 1.5;
+
+// Base Layer
+//
+//
+
+// Body
+
+$body-bg: $white !default;
+$body-color: $gray-dark !default;
+
+// Links
+
+$link-color: $brand-primary !default;
+
+// Objects Layer
+//
+// Used from object layer.
+
+// Common object styles
+
+$border-radius-large: .5rem !default;
+$border-radius: .4rem !default;
+$border-radius-small: .3rem !default;
+
+// Button
+
+$button-primary-color: $white !default;
+$button-primary-bg: $brand-primary !default;
+$button-primary-border: $brand-primary !default;
+
+$button-secondary-color: $gray-dark !default;
+$button-secondary-bg: transparent !default;
+$button-secondary-border: $gray-light !default;
+
+$button-safe-color: $white !default;
+$button-safe-bg: $brand-safe !default;
+$button-safe-border: $brand-safe !default;
+
+$button-info-color: $white !default;
+$button-info-bg: $brand-info !default;
+$button-info-border: $brand-info !default;
+
+$button-alert-color: $white !default;
+$button-alert-bg: $brand-alert !default;
+$button-alert-border: $brand-alert !default;
+
+$button-warning-color: $white !default;
+$button-warning-bg: $brand-warning !default;
+$button-warning-border: $brand-warning !default;
+
+//
+
+
+
+
+
+
+
+
+
+
+
+
+

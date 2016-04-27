@@ -1,0 +1,24 @@
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html {
+  font-size: $font-size-root;
+}
+
+body {
+  font-family: $font-family-base;
+  font-size: $font-size-base;
+
+}
+
+a {
+  color: $link-color;
+}

@@ -1,0 +1,23 @@
+/*!
+ * On Your Mark
+ *
+ * Licensed under MIT (https://github.com/kamiaka/on-your-mark/blob/master/LICENSE)
+ */
+
+// Settings
+@import "messages/ja.scss";
+@import "messages/en.scss";
+
+@import "variables";
+
+// Tools
+@import "mixins";
+
+// Generic
+@import "normalize";
+
+// Base
+@import "base";
+
+// Objects
+@import "objects";
